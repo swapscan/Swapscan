@@ -44,7 +44,7 @@ export default function GlobalStats() {
     <Header>
       <div style={{ justifyContent: 'space-between', display: below816 ? 'none' : 'flex' }}>
         <Box>
-          <p>Ehtherium price</p>
+          <p>Ethereum price</p>
           <div>
             <h2>{formattedEthPrice}</h2>
           </div>
